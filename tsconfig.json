@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "components/vaccines/VaccineTable.stsx",
+    "components/ScrollButton.jsx",
+    "pages/_offline.jsx",
+    "pages/_offline.js",
+    "utils/meta.ts",
+    "pages/_offline.tss",
+    "public/sw.js",
+    "reducers/page.tsx",
+    "reducers/index.ts",
+    "utils/useDarkMode.js'",
+    "reducers/dialog.js",
+    "reducers/dialog.js",
+    "actions/dialog.js",
+    "actions/page.js",
+    "pages/_app.js",
+    "lib/ga/index.js",
+    "lib/ga/index.js"
+  ],
+  "exclude": ["node_modules"]
+}
