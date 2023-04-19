@@ -11,7 +11,7 @@
 - It has a PROGESSIVE WEB APP function that is simple to download to your phone.
 
 ```sh
-https://covid19-vn.vercel.app/
+https://app-covid-auxt.vercel.app/
 ```
 
 - Data source: VnExpress, Zing News, Postman API.
@@ -49,5 +49,5 @@ https://covid19-vn.vercel.app/
 - Recharts, Headless UI, Framer Motion.
 - Google Analytics
 ```sh
-https://covid19-vn.vercel.app/
+https://app-covid-auxt.vercel.app/
 ```
